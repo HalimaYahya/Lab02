@@ -1,0 +1,4 @@
+1) the name of the file logged in user ?"logs"
+2) the name f the file specific to your repository? "info"
+3) the name of the file Values applied to all users? "refs" file and specificilly the "remotes" file 
+to containing all the user file 
